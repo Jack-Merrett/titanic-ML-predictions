@@ -16,8 +16,6 @@ The project is organized as follows:
 
 - `notebooks/`: Jupyter notebooks are provided to perform data exploration, data preprocessing, model building, and evaluation.
 
-- `src/`: This directory contains the Python scripts used for data preprocessing and model building. The main script `train_model.py` loads the data, preprocesses it, trains the machine learning model, and saves the trained model to a file.
-
 - `requirements.txt`: This file lists all the Python libraries required to run the code. You can set up the environment using `pip install -r requirements.txt`.
 
 ## Getting Started
